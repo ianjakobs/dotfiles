@@ -7,7 +7,7 @@ export ZSH=/Users/ianjakobs/.oh-my-zsh
 ####################################
 
 # Plugins
-plugins=(git nyan vagrant)
+plugins=(git nyan vagrant zsh-syntax-highlighting)
 
 # Settings
 ZSH_THEME="ianjakobs"                  # Set the terminal theme
