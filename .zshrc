@@ -9,8 +9,6 @@ export ZSH=/Users/ianjakobs/.oh-my-zsh
 # Plugins
 plugins=(
     git
-    npm
-    osx
     vi-mode
     zsh-syntax-highlighting
 )
